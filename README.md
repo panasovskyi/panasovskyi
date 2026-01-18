@@ -1,4 +1,4 @@
-## Hi there, I am Malsym Panasovskyi 👋
+## Hi there, I am Maksym Panasovskyi 👋
 
 ## 🛠 Tech Stack & Skills
 
@@ -12,9 +12,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### ⚙️ State & Data Management
-- **State:** Redux Toolkit (RTK), React Context API
-- **Data Fetching:** REST API, SWR (Stale-While-Revalidate), Axios
-- **Real-time:** WebSockets
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![React Context](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-000000?style=flat&logo=vercel&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=api&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
 
 ### 🖥 Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
