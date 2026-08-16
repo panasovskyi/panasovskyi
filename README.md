@@ -61,7 +61,7 @@
 *A fullstack recipe-sharing platform where users can browse, filter, and publish their own recipes, built with a focus on secure auth and clean data flow between client and server.*
 - **Tech:** React, TypeScript, Redux Toolkit, React Hook Form + Zod, SCSS Modules — Express, Prisma, PostgreSQL, Cloudinary.
 - **Key Features:** JWT-based authentication (access + httpOnly refresh tokens), recipe CRUD with image upload, category/subcategory filtering, live search, favourites, server-side pagination and sorting.
-- 🔗 [Live Demo](https://recipes-client-o55b.onrender.com/) | [Frontend Code](https://github.com/panasovskyi/recipes/tree/main/client) | [Backend Code](https://github.com/panasovskyi/recipes/tree/main/server)
+- 🔗 [Live Demo](https://recipes-client-o55b.onrender.com) | [Frontend Code](https://github.com/panasovskyi/recipes/tree/main/client) | [Backend Code](https://github.com/panasovskyi/recipes/tree/main/server)
 
 ### ✅ [Todo App — Fullstack Task Manager](https://github.com/panasovskyi/todo-app)
 *A fullstack task management application with JWT authentication, built with a focus on clean architecture and type safety end-to-end.*
