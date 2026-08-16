@@ -67,7 +67,7 @@
 *A fullstack task management application with JWT authentication, built with a focus on clean architecture and type safety end-to-end.*
 - **Tech:** Next.js, TypeScript, Zustand, React Query, React Hook Form + Zod, SCSS Modules — Express, Prisma, PostgreSQL.
 - **Key Features:** JWT-based authentication (access + httpOnly refresh tokens), full CRUD for tasks, search & status filtering, infinite scroll pagination, shared validation schemas between client and server.
-- 🔗 [Live Demo](https://todo-app-three-alpha-78.vercel.app) | [Frontend Code](https://github.com/panasovskyi/todo-app/tree/main/client | [Backend Code](https://github.com/panasovskyi/todo-app/tree/main/server)
+- 🔗 [Live Demo](https://todo-app-three-alpha-78.vercel.app) | [Frontend Code](https://github.com/panasovskyi/todo-app/tree/main/client) | [Backend Code](https://github.com/panasovskyi/todo-app/tree/main/server)
 
 ### 📱 [React Gadget Catalog](https://panasovskyi.github.io/gadget-catalog/)
 *An online gadget store with product categories, favourites, a shopping cart, filters, and multiple dynamic sliders.*
